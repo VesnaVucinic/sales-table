@@ -1,0 +1,546 @@
+{
+    "employees": [
+        {
+            "name": "Suzi",
+            "uid": "97798d47206"
+        },
+        {
+            "name": "Jeannette",
+            "uid": "7798d472069"
+        },
+        {
+            "name": "Dulciana",
+            "uid": "798d4720697"
+        },
+        {
+            "name": "Bernelle",
+            "uid": "98d47206978"
+        },
+        {
+            "name": "Alvira",
+            "uid": "8d472069784"
+        },
+        {
+            "name": "Querida",
+            "uid": "d472069784b"
+        },
+        {
+            "name": "Maribelle",
+            "uid": "472069784bb"
+        },
+        {
+            "name": "Katha",
+            "uid": "72069784bb1"
+        },
+        {
+            "name": "Jessie",
+            "uid": "2069784bb1d"
+        },
+        {
+            "name": "Lettie",
+            "uid": "069784bb1de"
+        }
+    ],
+    "sales": [
+        {
+            "employeeUid": "97798d47206",
+            "date": "2020-01-01",
+            "amount": 142
+        },
+        {
+            "employeeUid": "97798d47206",
+            "date": "2020-01-02",
+            "amount": 265
+        },
+        {
+            "employeeUid": "97798d47206",
+            "date": "2020-01-03",
+            "amount": 222
+        },
+        {
+            "employeeUid": "97798d47206",
+            "date": "2020-01-04",
+            "amount": 95
+        },
+        {
+            "employeeUid": "97798d47206",
+            "date": "2020-01-05",
+            "amount": 137
+        },
+        {
+            "employeeUid": "97798d47206",
+            "date": "2020-01-06",
+            "amount": 262
+        },
+        {
+            "employeeUid": "97798d47206",
+            "date": "2020-01-07",
+            "amount": 67
+        },
+        {
+            "employeeUid": "97798d47206",
+            "date": "2020-01-08",
+            "amount": 250
+        },
+        {
+            "employeeUid": "97798d47206",
+            "date": "2020-01-09",
+            "amount": 180
+        },
+        {
+            "employeeUid": "97798d47206",
+            "date": "2020-01-10",
+            "amount": 150
+        },
+        {
+            "employeeUid": "7798d472069",
+            "date": "2020-01-01",
+            "amount": 246
+        },
+        {
+            "employeeUid": "7798d472069",
+            "date": "2020-01-02",
+            "amount": 137
+        },
+        {
+            "employeeUid": "7798d472069",
+            "date": "2020-01-03",
+            "amount": 266
+        },
+        {
+            "employeeUid": "7798d472069",
+            "date": "2020-01-04",
+            "amount": 291
+        },
+        {
+            "employeeUid": "7798d472069",
+            "date": "2020-01-05",
+            "amount": 148
+        },
+        {
+            "employeeUid": "7798d472069",
+            "date": "2020-01-06",
+            "amount": 67
+        },
+        {
+            "employeeUid": "7798d472069",
+            "date": "2020-01-07",
+            "amount": 239
+        },
+        {
+            "employeeUid": "7798d472069",
+            "date": "2020-01-08",
+            "amount": 387
+        },
+        {
+            "employeeUid": "7798d472069",
+            "date": "2020-01-09",
+            "amount": 229
+        },
+        {
+            "employeeUid": "7798d472069",
+            "date": "2020-01-10",
+            "amount": 217
+        },
+        {
+            "employeeUid": "798d4720697",
+            "date": "2020-01-01",
+            "amount": 120
+        },
+        {
+            "employeeUid": "798d4720697",
+            "date": "2020-01-02",
+            "amount": 116
+        },
+        {
+            "employeeUid": "798d4720697",
+            "date": "2020-01-03",
+            "amount": 231
+        },
+        {
+            "employeeUid": "798d4720697",
+            "date": "2020-01-04",
+            "amount": 217
+        },
+        {
+            "employeeUid": "798d4720697",
+            "date": "2020-01-05",
+            "amount": 148
+        },
+        {
+            "employeeUid": "798d4720697",
+            "date": "2020-01-06",
+            "amount": 214
+        },
+        {
+            "employeeUid": "798d4720697",
+            "date": "2020-01-07",
+            "amount": 146
+        },
+        {
+            "employeeUid": "798d4720697",
+            "date": "2020-01-08",
+            "amount": 131
+        },
+        {
+            "employeeUid": "798d4720697",
+            "date": "2020-01-09",
+            "amount": 57
+        },
+        {
+            "employeeUid": "798d4720697",
+            "date": "2020-01-10",
+            "amount": 302
+        },
+        {
+            "employeeUid": "98d47206978",
+            "date": "2020-01-01",
+            "amount": 200
+        },
+        {
+            "employeeUid": "98d47206978",
+            "date": "2020-01-02",
+            "amount": 98
+        },
+        {
+            "employeeUid": "98d47206978",
+            "date": "2020-01-03",
+            "amount": 322
+        },
+        {
+            "employeeUid": "98d47206978",
+            "date": "2020-01-04",
+            "amount": 367
+        },
+        {
+            "employeeUid": "98d47206978",
+            "date": "2020-01-05",
+            "amount": 384
+        },
+        {
+            "employeeUid": "98d47206978",
+            "date": "2020-01-06",
+            "amount": 139
+        },
+        {
+            "employeeUid": "98d47206978",
+            "date": "2020-01-07",
+            "amount": 353
+        },
+        {
+            "employeeUid": "98d47206978",
+            "date": "2020-01-08",
+            "amount": 93
+        },
+        {
+            "employeeUid": "98d47206978",
+            "date": "2020-01-09",
+            "amount": 336
+        },
+        {
+            "employeeUid": "98d47206978",
+            "date": "2020-01-10",
+            "amount": 363
+        },
+        {
+            "employeeUid": "8d472069784",
+            "date": "2020-01-01",
+            "amount": 114
+        },
+        {
+            "employeeUid": "8d472069784",
+            "date": "2020-01-02",
+            "amount": 377
+        },
+        {
+            "employeeUid": "8d472069784",
+            "date": "2020-01-03",
+            "amount": 140
+        },
+        {
+            "employeeUid": "8d472069784",
+            "date": "2020-01-04",
+            "amount": 295
+        },
+        {
+            "employeeUid": "8d472069784",
+            "date": "2020-01-05",
+            "amount": 77
+        },
+        {
+            "employeeUid": "8d472069784",
+            "date": "2020-01-06",
+            "amount": 152
+        },
+        {
+            "employeeUid": "8d472069784",
+            "date": "2020-01-07",
+            "amount": 71
+        },
+        {
+            "employeeUid": "8d472069784",
+            "date": "2020-01-08",
+            "amount": 259
+        },
+        {
+            "employeeUid": "8d472069784",
+            "date": "2020-01-09",
+            "amount": 371
+        },
+        {
+            "employeeUid": "8d472069784",
+            "date": "2020-01-10",
+            "amount": 124
+        },
+        {
+            "employeeUid": "d472069784b",
+            "date": "2020-01-01",
+            "amount": 103
+        },
+        {
+            "employeeUid": "d472069784b",
+            "date": "2020-01-02",
+            "amount": 81
+        },
+        {
+            "employeeUid": "d472069784b",
+            "date": "2020-01-03",
+            "amount": 358
+        },
+        {
+            "employeeUid": "d472069784b",
+            "date": "2020-01-04",
+            "amount": 51
+        },
+        {
+            "employeeUid": "d472069784b",
+            "date": "2020-01-05",
+            "amount": 268
+        },
+        {
+            "employeeUid": "d472069784b",
+            "date": "2020-01-06",
+            "amount": 117
+        },
+        {
+            "employeeUid": "d472069784b",
+            "date": "2020-01-07",
+            "amount": 261
+        },
+        {
+            "employeeUid": "d472069784b",
+            "date": "2020-01-08",
+            "amount": 82
+        },
+        {
+            "employeeUid": "d472069784b",
+            "date": "2020-01-09",
+            "amount": 312
+        },
+        {
+            "employeeUid": "d472069784b",
+            "date": "2020-01-10",
+            "amount": 268
+        },
+        {
+            "employeeUid": "472069784bb",
+            "date": "2020-01-01",
+            "amount": 147
+        },
+        {
+            "employeeUid": "472069784bb",
+            "date": "2020-01-02",
+            "amount": 215
+        },
+        {
+            "employeeUid": "472069784bb",
+            "date": "2020-01-03",
+            "amount": 352
+        },
+        {
+            "employeeUid": "472069784bb",
+            "date": "2020-01-04",
+            "amount": 279
+        },
+        {
+            "employeeUid": "472069784bb",
+            "date": "2020-01-05",
+            "amount": 232
+        },
+        {
+            "employeeUid": "472069784bb",
+            "date": "2020-01-06",
+            "amount": 58
+        },
+        {
+            "employeeUid": "472069784bb",
+            "date": "2020-01-07",
+            "amount": 171
+        },
+        {
+            "employeeUid": "472069784bb",
+            "date": "2020-01-08",
+            "amount": 383
+        },
+        {
+            "employeeUid": "472069784bb",
+            "date": "2020-01-09",
+            "amount": 388
+        },
+        {
+            "employeeUid": "472069784bb",
+            "date": "2020-01-10",
+            "amount": 194
+        },
+        {
+            "employeeUid": "72069784bb1",
+            "date": "2020-01-01",
+            "amount": 84
+        },
+        {
+            "employeeUid": "72069784bb1",
+            "date": "2020-01-02",
+            "amount": 336
+        },
+        {
+            "employeeUid": "72069784bb1",
+            "date": "2020-01-03",
+            "amount": 116
+        },
+        {
+            "employeeUid": "72069784bb1",
+            "date": "2020-01-04",
+            "amount": 210
+        },
+        {
+            "employeeUid": "72069784bb1",
+            "date": "2020-01-05",
+            "amount": 254
+        },
+        {
+            "employeeUid": "72069784bb1",
+            "date": "2020-01-06",
+            "amount": 162
+        },
+        {
+            "employeeUid": "72069784bb1",
+            "date": "2020-01-07",
+            "amount": 81
+        },
+        {
+            "employeeUid": "72069784bb1",
+            "date": "2020-01-08",
+            "amount": 193
+        },
+        {
+            "employeeUid": "72069784bb1",
+            "date": "2020-01-09",
+            "amount": 109
+        },
+        {
+            "employeeUid": "72069784bb1",
+            "date": "2020-01-10",
+            "amount": 354
+        },
+        {
+            "employeeUid": "2069784bb1d",
+            "date": "2020-01-01",
+            "amount": 174
+        },
+        {
+            "employeeUid": "2069784bb1d",
+            "date": "2020-01-02",
+            "amount": 389
+        },
+        {
+            "employeeUid": "2069784bb1d",
+            "date": "2020-01-03",
+            "amount": 255
+        },
+        {
+            "employeeUid": "2069784bb1d",
+            "date": "2020-01-04",
+            "amount": 56
+        },
+        {
+            "employeeUid": "2069784bb1d",
+            "date": "2020-01-05",
+            "amount": 165
+        },
+        {
+            "employeeUid": "2069784bb1d",
+            "date": "2020-01-06",
+            "amount": 383
+        },
+        {
+            "employeeUid": "2069784bb1d",
+            "date": "2020-01-07",
+            "amount": 62
+        },
+        {
+            "employeeUid": "2069784bb1d",
+            "date": "2020-01-08",
+            "amount": 67
+        },
+        {
+            "employeeUid": "2069784bb1d",
+            "date": "2020-01-09",
+            "amount": 182
+        },
+        {
+            "employeeUid": "2069784bb1d",
+            "date": "2020-01-10",
+            "amount": 271
+        },
+        {
+            "employeeUid": "069784bb1de",
+            "date": "2020-01-01",
+            "amount": 128
+        },
+        {
+            "employeeUid": "069784bb1de",
+            "date": "2020-01-02",
+            "amount": 343
+        },
+        {
+            "employeeUid": "069784bb1de",
+            "date": "2020-01-03",
+            "amount": 239
+        },
+        {
+            "employeeUid": "069784bb1de",
+            "date": "2020-01-04",
+            "amount": 247
+        },
+        {
+            "employeeUid": "069784bb1de",
+            "date": "2020-01-05",
+            "amount": 62
+        },
+        {
+            "employeeUid": "069784bb1de",
+            "date": "2020-01-06",
+            "amount": 125
+        },
+        {
+            "employeeUid": "069784bb1de",
+            "date": "2020-01-07",
+            "amount": 288
+        },
+        {
+            "employeeUid": "069784bb1de",
+            "date": "2020-01-08",
+            "amount": 149
+        },
+        {
+            "employeeUid": "069784bb1de",
+            "date": "2020-01-09",
+            "amount": 370
+        },
+        {
+            "employeeUid": "069784bb1de",
+            "date": "2020-01-10",
+            "amount": 62
+        }
+    ]
+}
